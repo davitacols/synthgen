@@ -21,7 +21,7 @@ pip install synthgen
 Alternatively, clone the repository and install locally:
 
 ```bash
-git clone https://github.com/yourusername/synthgen.git
+git clone https://github.com/davitacols/synthgen.git
 cd synthgen
 pip install .
 ```
@@ -120,6 +120,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For questions or support, reach out to:
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** yourusername
+- **Name:** David Ansa
+- **Email:** davitacols@gmail.com
+- **GitHub:** davitacols
